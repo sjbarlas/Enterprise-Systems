@@ -1,0 +1,23 @@
+<catalogue>
+	<cd>
+		<title>Cool</title>
+		<artist>Eminem</artist>
+		<company>Somewhere</company>
+		<price>A lot</price>
+		<year>Don't remember</year>
+	</cd>
+	<cd>
+		<title>Awesome</title>
+		<artist>Lady Gaga</artist>
+		<company>Yep</company>
+		<price>Ok</price>
+		<year>Idk</year>
+	</cd>
+	<cd>
+		<title>Wow</title>
+		<artist>Katy Perry</artist>
+		<company>Over there</company>
+		<price>Of course</price>
+		<year>Maybe</year>
+	</cd>
+</catalogue>
