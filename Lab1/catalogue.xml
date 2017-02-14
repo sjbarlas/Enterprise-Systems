@@ -20,4 +20,11 @@
 		<price>Of course</price>
 		<year>Maybe</year>
 	</cd>
+	<cd>
+		<title>Whatever</title>
+		<artist>Soulja Boy</artist>
+		<company>Yoii</company>
+		<price>Waaa</price>
+		<year>Niii</year>
+	</cd>
 </catalogue>
