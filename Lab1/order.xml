@@ -1,0 +1,16 @@
+<customer-order>
+	<orderID>138001</orderID>
+	<order-handler>Siobhan</order-handler>
+	<shipping-to>
+		<name>Saira</name>
+		<address>4 The Green</address>
+		<city>Dublim</city>
+		<country>Ireland</country>
+	</shipping-to>
+	<items>
+		<title>Mermaid Blanket</title>
+		<id>1252</id>
+		<quantity>1</quantity>
+		<price>79.00</price>
+	</items>
+</customer-order>
